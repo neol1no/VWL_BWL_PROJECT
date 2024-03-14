@@ -1,0 +1,23 @@
+.neo{
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+    top: 80%;
+}
+
+.button{
+    margin: 20px;
+    top: 30%;
+    border: solid 2px #313131;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.test{
+    margin-bottom: 10px;
+}
+
+.neg{
+    top: 50%;
+    padding-top: 500px;
+}
