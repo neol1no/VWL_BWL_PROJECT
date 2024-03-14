@@ -7,8 +7,8 @@
   --primary: hsl(155, 100%, 65%);
   --primaryBg: hsla(155, 100%, 65%, 1%);
   --primaryHi: hsla(155, 100%, 75%, 25%);
-  --primaryFg: hsl(155, 100%, 85%);
-  --secondary: hsl(156, 51%, 14%);
+  --primaryFg: #b3ffdf;
+  --secondary: #113627;
   --secondaryFg: hsl(156, 51%, 75%);
   --secondaryBg: hsla(156, 51%, 14%, 5%);
   --secondaryHi: hsla(156, 51%, 30%, 50%);
@@ -224,8 +224,6 @@ span {
 }
 
 
-
-
 @media screen and (max-width: 1000px) {
   .title {
     font-size: 4rem;
@@ -251,3 +249,11 @@ span {
   }
   
 }
+
+
+
+/*//////////////////////
+///////////////////////
+///////////////////////
+///////////////////////*/
+
