@@ -1,1 +1,1 @@
-VWL/BWL site
+Project site for a school class
